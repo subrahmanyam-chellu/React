@@ -1,6 +1,6 @@
 {
   "name": "my-react-app",
-  "homepage": "https://subrahmanyam-chellu.github.io/javascript",
+  "homepage": "https://subrahmanyam-chellu.github.io/React",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -10,7 +10,7 @@
     "lint": "eslint .",
     "preview": "vite preview",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "deploy": "gh-pages -d dist"
   },
   "dependencies": {
     "gh-pages": "^6.3.0",
